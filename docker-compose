@@ -1,0 +1,6 @@
+using docker (ideally docker-compose), create a local ELK stack with the following:
+
+[ ] elasticsearch
+[ ] logstash
+[ ] kibana
+[ ] data sourced from Chrome Lighthouse json report exports
