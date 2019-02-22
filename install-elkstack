@@ -1,0 +1,24 @@
+How To Install Elasticsearch, Logstash, and Kibana (ELK Stack) on Ubuntu 14.04 
+https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-14-04
+
+How To Set Up a Firewall Using FirewallD on CentOS 7
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-7
+
+How To Install and Configure Elasticsearch on CentOS 7 
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-centos-7
+
+How To Set Up Centralized Linux Authentication with FreeIPA on CentOS 7 
+https://www.digitalocean.com/community/tutorials/how-to-set-up-centralized-linux-authentication-with-freeipa-on-centos-7#step-5-%E2%80%94-verifying-the-freeipa-server-functions
+ 	
+Configure FreeIPA Client to connect to FreeIPA Server. 
+https://www.server-world.info/en/note?os=Fedora_25&p=freeipa&f=3
+
+Use a CentOS DVD/ISO as a Yum Repository
+http://www.serverlab.ca/tutorials/linux/administration-linux/use-a-centos-dvdiso-as-a-yum-repository/
+
+How To Install Java on CentOS and Fedora 
+https://www.digitalocean.com/community/tutorials/how-to-install-java-on-centos-and-fedora
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/rpm.html
+https://www.elastic.co/guide/en/elastic-stack/current/installing-elastic-stack.html
+https://www.elastic.co/guide/en/kibana/current/rpm.html
