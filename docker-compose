@@ -4,3 +4,7 @@ using docker (ideally docker-compose), create a local ELK stack with the followi
 [ ] logstash
 [ ] kibana
 [ ] data sourced from Chrome Lighthouse json report exports
+
+Search Criteria:
+
+@elastic OR @logstash OR @elasticsearch OR Elasticsearch OR Logstash OR Kibana OR packetbeat OR "elastic stack" OR "elastic search" OR elasticbeats OR filebeat OR elasticon OR "elk stack” OR swiftype OR auditbeat OR “elastic apm” OR “open source apm” OR elkstack OR belkstack OR opbeat OR “Elastic APM” OR elastic.co OR “elk stack” OR “elastic cloud” OR elastalert OR Swiftype OR Swifttype OR skedlr OR lifeatelastic OR searchguard
